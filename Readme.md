@@ -1,6 +1,5 @@
 ﻿#IGNIS Annual Sports Meet website
 
-* The Annual Sports of Svnit organised on 6th to 8th april
-	```
-		Happy coding
+* The Annual national level sports event of SVNIT organised on 6th to 8th april
+
 	```
